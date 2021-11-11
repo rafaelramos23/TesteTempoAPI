@@ -12,3 +12,10 @@ Aplicação Web desenvolvida na Linguagem C# com ASP.NET consumindo a API Weathe
 ## <img align="center" height="40" width="110" src="https://cdn.weatherapi.com/v4/images/weatherapi_logo.png"> :globe_with_meridians:
 <b>WeatherAPI.com </b>fornece acesso a dados meteorológicos e geográficos por meio de uma API restful JSON / XML. Ele permite que os desenvolvedores criem aplicativos de desktop, web e móveis usando esses dados de forma muito fácil..
 
+
+## Tela Inicial 🏠
+<div>
+<img align="left" alt="TelaInicial" height="400" width="850" src="https://github.com/rafaelramos23/TesteTempoAPI/blob/master/scr/APItempo.JPG"
+</div><br>
+
+
